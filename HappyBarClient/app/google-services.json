@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364907931891",
+    "firebase_url": "https://happy-bar-21700.firebaseio.com",
+    "project_id": "happy-bar-21700",
+    "storage_bucket": "happy-bar-21700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364907931891:android:e7517725ba1c3867492f86",
+        "android_client_info": {
+          "package_name": "com.example.happybarclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364907931891-ck0j27mcti1hnqgmassehr07fspv68q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happybarclient",
+            "certificate_hash": "c05451f02834eabf01f3fd1b05405b7af64a8b0f"
+          }
+        },
+        {
+          "client_id": "364907931891-loqlh1psid9555ts9tabc0hneb08e8hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QPfyLGiI8tyDp3H0j0K8z4jGl81LfP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364907931891-loqlh1psid9555ts9tabc0hneb08e8hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

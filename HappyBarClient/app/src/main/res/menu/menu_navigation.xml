@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inicio"
+            android:title="Inicio"
+            android:icon="@drawable/home_icon"
+            android:checked="false">
+        </item>
+
+        <item
+            android:id="@+id/codes_qr"
+            android:title="Mis códigos"
+            android:icon="@drawable/qr_code_icon"
+            android:checked="false">
+        </item>
+
+        <item
+            android:id="@+id/cerrar_sesion"
+            android:title="Salir"
+            android:icon="@drawable/logout_icon"
+            android:checked="false">
+        </item>
+
+    </group>
+
+</menu>
